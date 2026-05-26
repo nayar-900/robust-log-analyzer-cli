@@ -10,7 +10,7 @@ STANDARD_LOG_PATTERN = re.compile(
     r'(?P<method>GET|POST|PUT|DELETE|PATCH)\s+'
     r'(?P<path>\S+)\s+'
     r'(?P<status>\d+|-)\s+'
-    r'(?P<response>\S+)'
+    r'(?P<response>\S+)(?:\s+.*)?$'
 )
 
 
