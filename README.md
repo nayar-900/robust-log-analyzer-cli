@@ -32,3 +32,7 @@ log-analyzer/
 ├── README.md
 ├── ANSWERS.md
 └── requirements.txt
+
+## Sample Output
+
+![CLI Output](assets/image.png)
