@@ -68,7 +68,7 @@ log-analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nayar-900/robust-log-analyzer-cli
 cd log-analyzer
 ```
 
