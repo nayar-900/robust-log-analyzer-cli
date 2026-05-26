@@ -1,6 +1,6 @@
 import json
 import random
-from datetime import datetime
+from datetime import datetime, UTC
 
 
 METHODS = ["GET", "POST", "PUT", "DELETE"]
@@ -14,7 +14,7 @@ PATHS = [
 
 def generate_standard_log():
     return (
-        f"{datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')} "
+        f"{datetime.now(UTC).strftime('%Y-%m-%dT%H:%M:%SZ')} "
         f"192.168.1.{random.randint(1,255)} "
         f"{random.choice(METHODS)} "
         f"{random.choice(PATHS)} "
@@ -25,7 +25,7 @@ def generate_standard_log():
 
 def generate_json_log():
     return json.dumps({
-        "timestamp": datetime.utcnow().strftime(
+        "timestamp": datetime.now(UTC).strftime(
             '%Y-%m-%dT%H:%M:%SZ'
         ),
         "ip": f"10.0.0.{random.randint(1,255)}",
