@@ -9,6 +9,7 @@ class LogAnalyzer:
 
         self.status_codes = Counter()
         self.ip_counter = Counter()
+        self.anomaly_counts = Counter()
 
         self.endpoint_times = defaultdict(list)
 
@@ -26,6 +27,9 @@ class LogAnalyzer:
 
     def process_malformed(self):
         self.malformed_lines += 1
+    
+    def process_anomaly(self, anomaly_type):
+        self.anomaly_counts[anomaly_type] += 1
 
     def generate_report(self):
         report = []
