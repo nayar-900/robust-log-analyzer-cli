@@ -1,0 +1,1000 @@
+2026-05-26T06:46:53Z 192.168.1.219 DELETE /api/products 200 76ms
+2026-05-26T06:46:53Z 192.168.1.253 PUT /api/orders 401 154ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.134 GET /api/products 404 487ms
+2026-05-26T06:46:53Z 192.168.1.152 PUT /api/login 400 286ms
+
+2026-05-26T06:46:53Z 192.168.1.161 POST /api/orders 200 224ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.236", "method": "PUT", "path": "/api/login", "status": 200, "response_time": "0.6697093376670181s"}
+2026-05-26T06:46:53Z 192.168.1.115 POST /api/orders 500 167ms
+2026-05-26T06:46:53Z 192.168.1.72 POST /api/login 201 200ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.113 GET /api/login 200 490ms
+partial line
+partial line
+2026-05-26T06:46:53Z 192.168.1.223 POST /api/login 201 172ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.110", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.9741681197373077s"}
+2026-05-26T06:46:53Z 192.168.1.11 DELETE /api/users 401 406ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.77 POST /api/orders 400 310ms
+2026-05-26T06:46:53Z 192.168.1.114 GET /api/orders 500 116ms
+2026-05-26T06:46:53Z 192.168.1.56 POST /api/login 500 197ms
+2026-05-26T06:46:53Z 192.168.1.51 DELETE /api/users 201 288ms
+2026-05-26T06:46:53Z 192.168.1.102 DELETE /api/login 400 54ms
+2026-05-26T06:46:53Z 192.168.1.19 PUT /api/users 201 316ms
+2026-05-26T06:46:53Z 192.168.1.84 GET /api/orders 500 394ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.240", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.9458552419801903s"}
+2026-05-26T06:46:53Z 192.168.1.170 PUT /api/products 201 400ms
+2026-05-26T06:46:53Z 192.168.1.43 PUT /api/users 500 334ms
+2026-05-26T06:46:53Z 192.168.1.36 DELETE /api/products 201 150ms
+2026-05-26T06:46:53Z 192.168.1.147 POST /api/users 400 385ms
+2026-05-26T06:46:53Z 192.168.1.213 PUT /api/users 404 254ms
+2026-05-26T06:46:53Z 192.168.1.167 DELETE /api/login 400 154ms
+2026-05-26T06:46:53Z 192.168.1.93 POST /api/login 200 344ms
+2026-05-26T06:46:53Z 192.168.1.91 DELETE /api/users 200 101ms
+2026-05-26T06:46:53Z 192.168.1.63 DELETE /api/users 400 218ms
+2026-05-26T06:46:53Z 192.168.1.194 PUT /api/products 500 418ms
+2026-05-26T06:46:53Z 192.168.1.183 POST /api/users 201 127ms
+2026-05-26T06:46:53Z 192.168.1.29 DELETE /api/login 201 207ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.79", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.9483356480303454s"}
+2026-05-26T06:46:53Z 192.168.1.173 DELETE /api/orders 500 209ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.245 GET /api/orders 201 157ms
+2026-05-26T06:46:53Z 192.168.1.190 DELETE /api/orders 404 439ms
+2026-05-26T06:46:53Z 192.168.1.193 POST /api/orders 200 12ms
+2026-05-26T06:46:53Z 192.168.1.3 POST /api/login 500 340ms
+2026-05-26T06:46:53Z 192.168.1.92 DELETE /api/orders 500 160ms
+
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.230 GET /api/orders 500 423ms
+2026-05-26T06:46:53Z 192.168.1.152 GET /api/login 201 249ms
+2026-05-26T06:46:53Z 192.168.1.220 POST /api/users 500 294ms
+partial line
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.66", "method": "GET", "path": "/api/orders", "status": 200, "response_time": "0.24563301144297456s"}
+2026-05-26T06:46:53Z 192.168.1.103 GET /api/users 500 115ms
+2026-05-26T06:46:53Z 192.168.1.44 POST /api/login 400 75ms
+2026-05-26T06:46:53Z 192.168.1.192 POST /api/users 201 308ms
+2026-05-26T06:46:53Z 192.168.1.159 POST /api/users 201 155ms
+2026-05-26T06:46:53Z 192.168.1.158 DELETE /api/login 400 163ms
+2026-05-26T06:46:53Z 192.168.1.49 DELETE /api/orders 201 469ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.95", "method": "DELETE", "path": "/api/users", "status": 200, "response_time": "0.9980486480745462s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.125", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.3954608032826519s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.125", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.2114741815662109s"}
+2026-05-26T06:46:53Z 192.168.1.227 DELETE /api/products 500 309ms
+2026-05-26T06:46:53Z 192.168.1.40 PUT /api/products 500 147ms
+2026-05-26T06:46:53Z 192.168.1.196 POST /api/users 200 91ms
+2026-05-26T06:46:53Z 192.168.1.25 DELETE /api/users 400 45ms
+2026-05-26T06:46:53Z 192.168.1.213 GET /api/products 200 27ms
+2026-05-26T06:46:53Z 192.168.1.55 GET /api/login 500 300ms
+2026-05-26T06:46:53Z 192.168.1.107 POST /api/orders 401 186ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.157", "method": "POST", "path": "/api/login", "status": 500, "response_time": "0.6358659188816922s"}
+2026-05-26T06:46:53Z 192.168.1.65 DELETE /api/orders 500 483ms
+2026-05-26T06:46:53Z 192.168.1.248 PUT /api/orders 404 102ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.158", "method": "GET", "path": "/api/users", "status": 500, "response_time": "0.4318621341587666s"}
+2026-05-26T06:46:53Z 192.168.1.135 POST /api/orders 400 390ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.178", "method": "GET", "path": "/api/users", "status": 500, "response_time": "0.9838403712139598s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.162", "method": "GET", "path": "/api/orders", "status": 200, "response_time": "0.979531590018119s"}
+
+2026-05-26T06:46:53Z 192.168.1.140 POST /api/orders 400 469ms
+2026-05-26T06:46:53Z 192.168.1.224 POST /api/login 400 238ms
+2026-05-26T06:46:53Z 192.168.1.249 POST /api/users 401 346ms
+
+2026-05-26T06:46:53Z 192.168.1.12 GET /api/products 400 367ms
+2026-05-26T06:46:53Z 192.168.1.164 PUT /api/users 201 99ms
+2026-05-26T06:46:53Z 192.168.1.181 GET /api/products 201 479ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.13 PUT /api/orders 401 262ms
+2026-05-26T06:46:53Z 192.168.1.232 POST /api/orders 500 62ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.87 POST /api/login 400 55ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.15 GET /api/users 200 268ms
+2026-05-26T06:46:53Z 192.168.1.146 GET /api/orders 401 142ms
+2026-05-26T06:46:53Z 192.168.1.255 GET /api/login 404 328ms
+2026-05-26T06:46:53Z 192.168.1.183 DELETE /api/products 201 318ms
+2026-05-26T06:46:53Z 192.168.1.135 PUT /api/users 401 475ms
+2026-05-26T06:46:53Z 192.168.1.219 GET /api/products 400 355ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.208", "method": "DELETE", "path": "/api/users", "status": 200, "response_time": "0.25547757951155503s"}
+2026-05-26T06:46:53Z 192.168.1.23 DELETE /api/login 201 164ms
+2026-05-26T06:46:53Z 192.168.1.184 PUT /api/orders 200 72ms
+2026-05-26T06:46:53Z 192.168.1.83 POST /api/products 500 461ms
+2026-05-26T06:46:53Z 192.168.1.140 GET /api/products 401 496ms
+2026-05-26T06:46:53Z 192.168.1.153 DELETE /api/users 401 125ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.159", "method": "GET", "path": "/api/orders", "status": 500, "response_time": "0.38879651657663594s"}
+2026-05-26T06:46:53Z 192.168.1.161 PUT /api/orders 400 450ms
+2026-05-26T06:46:53Z 192.168.1.242 DELETE /api/login 400 177ms
+
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.247", "method": "GET", "path": "/api/products", "status": 500, "response_time": "0.33605761859214334s"}
+2026-05-26T06:46:53Z 192.168.1.180 PUT /api/login 401 39ms
+2026-05-26T06:46:53Z 192.168.1.54 PUT /api/orders 401 110ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.205", "method": "POST", "path": "/api/products", "status": 200, "response_time": "0.7821228043027068s"}
+2026-05-26T06:46:53Z 192.168.1.213 DELETE /api/products 201 108ms
+2026-05-26T06:46:53Z 192.168.1.107 PUT /api/users 401 318ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.140", "method": "GET", "path": "/api/products", "status": 500, "response_time": "0.44663126690329713s"}
+2026-05-26T06:46:53Z 192.168.1.40 GET /api/users 400 33ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.98", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.6790706243627244s"}
+2026-05-26T06:46:53Z 192.168.1.70 POST /api/products 401 61ms
+2026-05-26T06:46:53Z 192.168.1.251 POST /api/users 200 206ms
+2026-05-26T06:46:53Z 192.168.1.201 GET /api/products 404 412ms
+2026-05-26T06:46:53Z 192.168.1.216 PUT /api/orders 201 368ms
+2026-05-26T06:46:53Z 192.168.1.166 GET /api/orders 201 41ms
+2026-05-26T06:46:53Z 192.168.1.94 PUT /api/orders 200 12ms
+2026-05-26T06:46:53Z 192.168.1.160 GET /api/products 401 70ms
+2026-05-26T06:46:53Z 192.168.1.233 GET /api/products 201 56ms
+2026-05-26T06:46:53Z 192.168.1.80 GET /api/users 200 78ms
+Traceback: connection reset
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.4", "method": "POST", "path": "/api/users", "status": 200, "response_time": "0.4632766616936417s"}
+2026-05-26T06:46:53Z 192.168.1.210 GET /api/orders 200 219ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.138 DELETE /api/login 401 236ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.180 POST /api/users 500 402ms
+2026-05-26T06:46:53Z 192.168.1.155 DELETE /api/users 404 322ms
+2026-05-26T06:46:53Z 192.168.1.50 GET /api/login 201 262ms
+2026-05-26T06:46:53Z 192.168.1.244 PUT /api/products 404 74ms
+2026-05-26T06:46:53Z 192.168.1.198 GET /api/products 401 29ms
+2026-05-26T06:46:53Z 192.168.1.164 GET /api/orders 200 486ms
+2026-05-26T06:46:53Z 192.168.1.196 PUT /api/login 201 219ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.79 POST /api/products 200 244ms
+2026-05-26T06:46:53Z 192.168.1.167 DELETE /api/login 401 10ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.213", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.558835117901979s"}
+2026-05-26T06:46:53Z 192.168.1.102 POST /api/products 401 126ms
+2026-05-26T06:46:53Z 192.168.1.76 POST /api/users 404 135ms
+2026-05-26T06:46:53Z 192.168.1.184 PUT /api/products 201 373ms
+2026-05-26T06:46:53Z 192.168.1.167 PUT /api/orders 401 415ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.247", "method": "POST", "path": "/api/login", "status": 200, "response_time": "0.2203117331157548s"}
+2026-05-26T06:46:53Z 192.168.1.174 POST /api/products 401 167ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.113", "method": "PUT", "path": "/api/users", "status": 200, "response_time": "0.10594922998304646s"}
+2026-05-26T06:46:53Z 192.168.1.40 DELETE /api/orders 404 64ms
+2026-05-26T06:46:53Z 192.168.1.213 DELETE /api/products 200 165ms
+
+2026-05-26T06:46:53Z 192.168.1.122 GET /api/products 200 75ms
+2026-05-26T06:46:53Z 192.168.1.43 DELETE /api/users 200 276ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.28", "method": "GET", "path": "/api/users", "status": 500, "response_time": "0.3566277504144526s"}
+2026-05-26T06:46:53Z 192.168.1.52 DELETE /api/users 401 118ms
+2026-05-26T06:46:53Z 192.168.1.8 DELETE /api/users 201 493ms
+2026-05-26T06:46:53Z 192.168.1.194 DELETE /api/products 404 424ms
+2026-05-26T06:46:53Z 192.168.1.188 GET /api/orders 500 245ms
+2026-05-26T06:46:53Z 192.168.1.94 GET /api/orders 201 329ms
+2026-05-26T06:46:53Z 192.168.1.219 PUT /api/login 200 73ms
+2026-05-26T06:46:53Z 192.168.1.143 DELETE /api/products 500 287ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.42 POST /api/login 400 229ms
+2026-05-26T06:46:53Z 192.168.1.77 GET /api/products 201 147ms
+2026-05-26T06:46:53Z 192.168.1.79 GET /api/products 200 136ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.5", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.9544500746192458s"}
+2026-05-26T06:46:53Z 192.168.1.11 GET /api/orders 200 259ms
+2026-05-26T06:46:53Z 192.168.1.51 GET /api/orders 200 140ms
+2026-05-26T06:46:53Z 192.168.1.39 PUT /api/orders 401 293ms
+2026-05-26T06:46:53Z 192.168.1.109 DELETE /api/login 201 123ms
+2026-05-26T06:46:53Z 192.168.1.27 GET /api/login 404 288ms
+2026-05-26T06:46:53Z 192.168.1.247 GET /api/orders 404 118ms
+
+2026-05-26T06:46:53Z 192.168.1.199 GET /api/login 400 365ms
+2026-05-26T06:46:53Z 192.168.1.198 PUT /api/products 400 257ms
+2026-05-26T06:46:53Z 192.168.1.250 GET /api/products 404 388ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.26", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.09034384930997297s"}
+2026-05-26T06:46:53Z 192.168.1.133 GET /api/orders 401 296ms
+2026-05-26T06:46:53Z 192.168.1.197 PUT /api/users 404 402ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.221", "method": "PUT", "path": "/api/login", "status": 500, "response_time": "0.9741907077457596s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.161", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.3081809099256315s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.66", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.14282895445218036s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.58", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.19210344323400397s"}
+2026-05-26T06:46:53Z 192.168.1.166 DELETE /api/products 200 343ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.5", "method": "GET", "path": "/api/users", "status": 500, "response_time": "0.6624080935317791s"}
+2026-05-26T06:46:53Z 192.168.1.203 PUT /api/orders 400 292ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.42 POST /api/products 404 49ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.192 DELETE /api/products 401 198ms
+2026-05-26T06:46:53Z 192.168.1.237 PUT /api/login 401 355ms
+2026-05-26T06:46:53Z 192.168.1.118 PUT /api/users 201 130ms
+2026-05-26T06:46:53Z 192.168.1.230 GET /api/users 404 10ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.4 POST /api/users 404 410ms
+2026-05-26T06:46:53Z 192.168.1.95 PUT /api/orders 401 287ms
+2026-05-26T06:46:53Z 192.168.1.169 DELETE /api/login 201 396ms
+2026-05-26T06:46:53Z 192.168.1.220 DELETE /api/orders 401 303ms
+2026-05-26T06:46:53Z 192.168.1.73 POST /api/products 404 176ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.180 GET /api/users 200 91ms
+2026-05-26T06:46:53Z 192.168.1.120 GET /api/users 401 144ms
+2026-05-26T06:46:53Z 192.168.1.53 PUT /api/login 200 77ms
+2026-05-26T06:46:53Z 192.168.1.130 DELETE /api/orders 400 401ms
+2026-05-26T06:46:53Z 192.168.1.118 GET /api/users 500 315ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.95 GET /api/orders 400 89ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.167 DELETE /api/products 404 111ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.129", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.30618944340868837s"}
+2026-05-26T06:46:53Z 192.168.1.59 POST /api/products 400 36ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.16", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.5590175247694247s"}
+2026-05-26T06:46:53Z 192.168.1.98 POST /api/orders 200 436ms
+2026-05-26T06:46:53Z 192.168.1.151 DELETE /api/login 400 467ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.7 DELETE /api/users 200 316ms
+2026-05-26T06:46:53Z 192.168.1.232 PUT /api/users 200 494ms
+2026-05-26T06:46:53Z 192.168.1.147 GET /api/products 500 136ms
+2026-05-26T06:46:53Z 192.168.1.77 GET /api/products 201 370ms
+2026-05-26T06:46:53Z 192.168.1.96 DELETE /api/orders 500 157ms
+2026-05-26T06:46:53Z 192.168.1.62 POST /api/orders 200 113ms
+2026-05-26T06:46:53Z 192.168.1.219 POST /api/products 404 124ms
+2026-05-26T06:46:53Z 192.168.1.207 GET /api/orders 400 492ms
+2026-05-26T06:46:53Z 192.168.1.69 DELETE /api/users 200 476ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.235", "method": "POST", "path": "/api/orders", "status": 200, "response_time": "0.9923853597540917s"}
+2026-05-26T06:46:53Z 192.168.1.218 POST /api/orders 500 382ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.80 GET /api/products 401 452ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.122", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.8777569379281351s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.103", "method": "PUT", "path": "/api/users", "status": 500, "response_time": "0.16762404372159734s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.218", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.6747731791572852s"}
+2026-05-26T06:46:53Z 192.168.1.31 POST /api/users 404 218ms
+2026-05-26T06:46:53Z 192.168.1.208 DELETE /api/users 404 435ms
+2026-05-26T06:46:53Z 192.168.1.231 PUT /api/orders 401 161ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.245", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.16305587011160572s"}
+partial line
+2026-05-26T06:46:53Z 192.168.1.238 POST /api/users 201 223ms
+2026-05-26T06:46:53Z 192.168.1.99 POST /api/products 400 192ms
+2026-05-26T06:46:53Z 192.168.1.92 PUT /api/login 500 270ms
+2026-05-26T06:46:53Z 192.168.1.48 POST /api/users 404 398ms
+2026-05-26T06:46:53Z 192.168.1.105 PUT /api/login 400 225ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.38", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.5575290182494355s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.60", "method": "POST", "path": "/api/login", "status": 200, "response_time": "0.05996731091451257s"}
+2026-05-26T06:46:53Z 192.168.1.134 DELETE /api/login 200 400ms
+2026-05-26T06:46:53Z 192.168.1.23 PUT /api/orders 200 319ms
+2026-05-26T06:46:53Z 192.168.1.37 POST /api/login 200 58ms
+2026-05-26T06:46:53Z 192.168.1.211 PUT /api/products 200 122ms
+2026-05-26T06:46:53Z 192.168.1.224 DELETE /api/orders 400 27ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.171 PUT /api/login 401 482ms
+2026-05-26T06:46:53Z 192.168.1.253 PUT /api/login 400 406ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.177 PUT /api/products 401 171ms
+2026-05-26T06:46:53Z 192.168.1.44 DELETE /api/orders 500 448ms
+2026-05-26T06:46:53Z 192.168.1.146 POST /api/users 404 342ms
+2026-05-26T06:46:53Z 192.168.1.9 GET /api/products 404 140ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.186", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.21274604779029116s"}
+2026-05-26T06:46:53Z 192.168.1.201 GET /api/users 401 460ms
+2026-05-26T06:46:53Z 192.168.1.23 PUT /api/login 500 222ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.29", "method": "PUT", "path": "/api/users", "status": 500, "response_time": "0.8378843543513192s"}
+2026-05-26T06:46:53Z 192.168.1.184 GET /api/orders 400 92ms
+2026-05-26T06:46:53Z 192.168.1.129 PUT /api/orders 200 58ms
+2026-05-26T06:46:53Z 192.168.1.55 DELETE /api/users 401 260ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.38", "method": "PUT", "path": "/api/login", "status": 500, "response_time": "0.279296837612372s"}
+2026-05-26T06:46:53Z 192.168.1.219 PUT /api/users 401 370ms
+2026-05-26T06:46:53Z 192.168.1.243 PUT /api/login 400 127ms
+2026-05-26T06:46:53Z 192.168.1.211 DELETE /api/users 401 492ms
+Traceback: connection reset
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.62", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.928194418605898s"}
+2026-05-26T06:46:53Z 192.168.1.58 DELETE /api/users 200 474ms
+2026-05-26T06:46:53Z 192.168.1.38 PUT /api/orders 200 384ms
+2026-05-26T06:46:53Z 192.168.1.124 PUT /api/login 401 403ms
+2026-05-26T06:46:53Z 192.168.1.69 PUT /api/users 201 365ms
+2026-05-26T06:46:53Z 192.168.1.158 DELETE /api/products 400 95ms
+2026-05-26T06:46:53Z 192.168.1.127 POST /api/products 404 31ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.175", "method": "GET", "path": "/api/orders", "status": 200, "response_time": "0.4024859163362031s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.162", "method": "PUT", "path": "/api/login", "status": 200, "response_time": "0.509395107918453s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.49", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.505352005754949s"}
+2026-05-26T06:46:53Z 192.168.1.138 GET /api/login 404 482ms
+2026-05-26T06:46:53Z 192.168.1.165 POST /api/products 400 172ms
+2026-05-26T06:46:53Z 192.168.1.18 PUT /api/login 200 371ms
+2026-05-26T06:46:53Z 192.168.1.161 POST /api/orders 200 79ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.98", "method": "PUT", "path": "/api/users", "status": 500, "response_time": "0.060976370388362455s"}
+2026-05-26T06:46:53Z 192.168.1.251 GET /api/products 201 368ms
+2026-05-26T06:46:53Z 192.168.1.3 PUT /api/login 404 212ms
+2026-05-26T06:46:53Z 192.168.1.86 GET /api/products 200 145ms
+2026-05-26T06:46:53Z 192.168.1.171 DELETE /api/users 500 46ms
+2026-05-26T06:46:53Z 192.168.1.252 PUT /api/users 404 272ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.127", "method": "DELETE", "path": "/api/users", "status": 200, "response_time": "0.6495950586783794s"}
+2026-05-26T06:46:53Z 192.168.1.246 DELETE /api/orders 200 371ms
+2026-05-26T06:46:53Z 192.168.1.228 POST /api/products 201 376ms
+2026-05-26T06:46:53Z 192.168.1.210 DELETE /api/users 201 179ms
+2026-05-26T06:46:53Z 192.168.1.160 PUT /api/products 404 450ms
+2026-05-26T06:46:53Z 192.168.1.82 DELETE /api/users 400 115ms
+2026-05-26T06:46:53Z 192.168.1.163 POST /api/products 200 277ms
+2026-05-26T06:46:53Z 192.168.1.66 GET /api/orders 400 51ms
+2026-05-26T06:46:53Z 192.168.1.131 POST /api/products 404 162ms
+2026-05-26T06:46:53Z 192.168.1.237 GET /api/products 401 443ms
+INVALID LOG ENTRY
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.96", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.9671564345438424s"}
+2026-05-26T06:46:53Z 192.168.1.103 DELETE /api/products 401 327ms
+2026-05-26T06:46:53Z 192.168.1.133 GET /api/products 500 409ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.144", "method": "POST", "path": "/api/orders", "status": 200, "response_time": "0.2763096723071108s"}
+partial line
+2026-05-26T06:46:53Z 192.168.1.196 DELETE /api/login 500 391ms
+2026-05-26T06:46:53Z 192.168.1.7 PUT /api/users 400 217ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.50", "method": "GET", "path": "/api/orders", "status": 200, "response_time": "0.15592777401017044s"}
+2026-05-26T06:46:53Z 192.168.1.225 GET /api/login 201 87ms
+2026-05-26T06:46:53Z 192.168.1.34 POST /api/orders 400 375ms
+2026-05-26T06:46:53Z 192.168.1.89 POST /api/products 200 293ms
+2026-05-26T06:46:53Z 192.168.1.63 GET /api/users 500 171ms
+2026-05-26T06:46:53Z 192.168.1.161 PUT /api/orders 400 353ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.12", "method": "PUT", "path": "/api/users", "status": 200, "response_time": "0.04263273667561318s"}
+2026-05-26T06:46:53Z 192.168.1.88 PUT /api/orders 400 247ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.201 GET /api/products 401 343ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.11", "method": "GET", "path": "/api/products", "status": 500, "response_time": "0.766903259460301s"}
+partial line
+2026-05-26T06:46:53Z 192.168.1.166 GET /api/products 500 453ms
+2026-05-26T06:46:53Z 192.168.1.168 GET /api/products 500 223ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.118", "method": "PUT", "path": "/api/products", "status": 200, "response_time": "0.17640599737457174s"}
+2026-05-26T06:46:53Z 192.168.1.58 PUT /api/orders 400 229ms
+2026-05-26T06:46:53Z 192.168.1.184 PUT /api/login 400 316ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.217", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.8541231476758834s"}
+2026-05-26T06:46:53Z 192.168.1.143 GET /api/orders 400 325ms
+2026-05-26T06:46:53Z 192.168.1.91 GET /api/orders 200 205ms
+2026-05-26T06:46:53Z 192.168.1.30 PUT /api/users 401 131ms
+2026-05-26T06:46:53Z 192.168.1.232 GET /api/products 400 491ms
+2026-05-26T06:46:53Z 192.168.1.11 PUT /api/login 404 152ms
+2026-05-26T06:46:53Z 192.168.1.79 POST /api/orders 200 209ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.125", "method": "POST", "path": "/api/products", "status": 500, "response_time": "0.5448520434045109s"}
+2026-05-26T06:46:53Z 192.168.1.23 DELETE /api/products 404 492ms
+2026-05-26T06:46:53Z 192.168.1.113 POST /api/login 500 238ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.102", "method": "POST", "path": "/api/products", "status": 500, "response_time": "0.1634383374322118s"}
+2026-05-26T06:46:53Z 192.168.1.74 POST /api/users 404 340ms
+2026-05-26T06:46:53Z 192.168.1.153 GET /api/orders 200 195ms
+2026-05-26T06:46:53Z 192.168.1.134 POST /api/orders 201 256ms
+2026-05-26T06:46:53Z 192.168.1.151 POST /api/orders 404 273ms
+2026-05-26T06:46:53Z 192.168.1.206 PUT /api/products 401 422ms
+2026-05-26T06:46:53Z 192.168.1.35 POST /api/orders 400 200ms
+2026-05-26T06:46:53Z 192.168.1.93 DELETE /api/orders 401 269ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.195", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.5818792078342926s"}
+2026-05-26T06:46:53Z 192.168.1.215 DELETE /api/users 200 276ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.191", "method": "POST", "path": "/api/users", "status": 200, "response_time": "0.9373810672589709s"}
+2026-05-26T06:46:53Z 192.168.1.64 POST /api/login 201 321ms
+2026-05-26T06:46:53Z 192.168.1.242 GET /api/users 404 301ms
+2026-05-26T06:46:53Z 192.168.1.122 POST /api/users 400 103ms
+2026-05-26T06:46:53Z 192.168.1.184 POST /api/users 400 415ms
+2026-05-26T06:46:53Z 192.168.1.174 POST /api/login 500 255ms
+
+2026-05-26T06:46:53Z 192.168.1.19 DELETE /api/orders 201 147ms
+2026-05-26T06:46:53Z 192.168.1.75 GET /api/orders 400 137ms
+2026-05-26T06:46:53Z 192.168.1.217 GET /api/products 200 298ms
+
+2026-05-26T06:46:53Z 192.168.1.107 PUT /api/orders 500 361ms
+2026-05-26T06:46:53Z 192.168.1.69 PUT /api/login 201 198ms
+
+2026-05-26T06:46:53Z 192.168.1.19 PUT /api/users 401 89ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.148", "method": "DELETE", "path": "/api/users", "status": 200, "response_time": "0.40638174111366754s"}
+2026-05-26T06:46:53Z 192.168.1.193 PUT /api/products 201 109ms
+INVALID LOG ENTRY
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.229", "method": "PUT", "path": "/api/login", "status": 200, "response_time": "0.8883036280926196s"}
+2026-05-26T06:46:53Z 192.168.1.76 POST /api/users 200 123ms
+2026-05-26T06:46:53Z 192.168.1.96 DELETE /api/users 404 409ms
+2026-05-26T06:46:53Z 192.168.1.75 DELETE /api/users 500 451ms
+2026-05-26T06:46:53Z 192.168.1.80 PUT /api/orders 404 423ms
+2026-05-26T06:46:53Z 192.168.1.29 DELETE /api/products 401 182ms
+2026-05-26T06:46:53Z 192.168.1.79 PUT /api/users 404 278ms
+2026-05-26T06:46:53Z 192.168.1.11 PUT /api/orders 201 427ms
+
+2026-05-26T06:46:53Z 192.168.1.97 GET /api/login 200 228ms
+2026-05-26T06:46:53Z 192.168.1.160 PUT /api/users 500 38ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.135 PUT /api/login 500 213ms
+2026-05-26T06:46:53Z 192.168.1.210 POST /api/login 500 42ms
+2026-05-26T06:46:53Z 192.168.1.211 DELETE /api/orders 200 482ms
+2026-05-26T06:46:53Z 192.168.1.10 GET /api/products 404 253ms
+partial line
+partial line
+2026-05-26T06:46:53Z 192.168.1.233 PUT /api/orders 200 12ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.158", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.6528362641172027s"}
+2026-05-26T06:46:53Z 192.168.1.24 DELETE /api/products 400 319ms
+2026-05-26T06:46:53Z 192.168.1.126 POST /api/orders 404 308ms
+2026-05-26T06:46:53Z 192.168.1.109 DELETE /api/login 201 122ms
+2026-05-26T06:46:53Z 192.168.1.64 DELETE /api/users 200 24ms
+2026-05-26T06:46:53Z 192.168.1.27 POST /api/products 401 156ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.201", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.6639264681788744s"}
+2026-05-26T06:46:53Z 192.168.1.76 DELETE /api/orders 500 402ms
+
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.199 POST /api/login 404 369ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.154", "method": "PUT", "path": "/api/users", "status": 200, "response_time": "0.251238566464675s"}
+2026-05-26T06:46:53Z 192.168.1.173 POST /api/users 401 173ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.171", "method": "DELETE", "path": "/api/products", "status": 500, "response_time": "0.044439820743121805s"}
+2026-05-26T06:46:53Z 192.168.1.84 PUT /api/orders 401 136ms
+2026-05-26T06:46:53Z 192.168.1.238 DELETE /api/login 201 17ms
+2026-05-26T06:46:53Z 192.168.1.249 POST /api/products 200 28ms
+
+2026-05-26T06:46:53Z 192.168.1.212 DELETE /api/login 200 373ms
+2026-05-26T06:46:53Z 192.168.1.132 PUT /api/products 400 289ms
+2026-05-26T06:46:53Z 192.168.1.190 GET /api/orders 404 21ms
+2026-05-26T06:46:53Z 192.168.1.127 POST /api/products 404 491ms
+2026-05-26T06:46:53Z 192.168.1.69 POST /api/orders 200 120ms
+2026-05-26T06:46:53Z 192.168.1.130 PUT /api/users 401 68ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.163", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.03635149364934043s"}
+2026-05-26T06:46:53Z 192.168.1.111 POST /api/products 201 203ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.243", "method": "POST", "path": "/api/users", "status": 200, "response_time": "0.7328046959264541s"}
+2026-05-26T06:46:53Z 192.168.1.199 GET /api/products 404 442ms
+2026-05-26T06:46:53Z 192.168.1.235 GET /api/login 500 34ms
+2026-05-26T06:46:53Z 192.168.1.57 DELETE /api/login 400 105ms
+2026-05-26T06:46:53Z 192.168.1.253 GET /api/products 404 101ms
+2026-05-26T06:46:53Z 192.168.1.123 POST /api/login 200 342ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.158", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.13903537195617988s"}
+2026-05-26T06:46:53Z 192.168.1.178 GET /api/products 400 160ms
+2026-05-26T06:46:53Z 192.168.1.177 GET /api/users 401 406ms
+2026-05-26T06:46:53Z 192.168.1.143 PUT /api/login 401 453ms
+2026-05-26T06:46:53Z 192.168.1.92 GET /api/users 200 478ms
+2026-05-26T06:46:53Z 192.168.1.63 GET /api/products 400 168ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.48", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.20148170720957415s"}
+2026-05-26T06:46:53Z 192.168.1.48 PUT /api/login 500 326ms
+2026-05-26T06:46:53Z 192.168.1.142 GET /api/products 200 405ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.151", "method": "DELETE", "path": "/api/login", "status": 500, "response_time": "0.8364901666488966s"}
+2026-05-26T06:46:53Z 192.168.1.27 PUT /api/orders 401 26ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.34 GET /api/products 201 200ms
+2026-05-26T06:46:53Z 192.168.1.45 POST /api/products 201 56ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.106", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.6610008915731589s"}
+2026-05-26T06:46:53Z 192.168.1.102 DELETE /api/users 400 311ms
+2026-05-26T06:46:53Z 192.168.1.190 PUT /api/orders 200 279ms
+2026-05-26T06:46:53Z 192.168.1.99 GET /api/orders 200 174ms
+2026-05-26T06:46:53Z 192.168.1.89 PUT /api/login 400 320ms
+2026-05-26T06:46:53Z 192.168.1.12 GET /api/users 200 403ms
+
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.253", "method": "PUT", "path": "/api/users", "status": 500, "response_time": "0.16766398622385847s"}
+2026-05-26T06:46:53Z 192.168.1.247 GET /api/orders 401 17ms
+2026-05-26T06:46:53Z 192.168.1.127 POST /api/login 404 445ms
+2026-05-26T06:46:53Z 192.168.1.143 GET /api/login 200 271ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.222", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.047497558604006174s"}
+2026-05-26T06:46:53Z 192.168.1.255 PUT /api/login 200 317ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.131", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.23372417747549679s"}
+2026-05-26T06:46:53Z 192.168.1.231 GET /api/login 200 446ms
+2026-05-26T06:46:53Z 192.168.1.66 GET /api/orders 400 55ms
+2026-05-26T06:46:53Z 192.168.1.246 GET /api/login 200 418ms
+2026-05-26T06:46:53Z 192.168.1.152 DELETE /api/login 500 308ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.196", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.02612119983302552s"}
+2026-05-26T06:46:53Z 192.168.1.102 DELETE /api/users 200 13ms
+2026-05-26T06:46:53Z 192.168.1.15 PUT /api/login 400 343ms
+2026-05-26T06:46:53Z 192.168.1.88 DELETE /api/orders 404 239ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.57", "method": "DELETE", "path": "/api/users", "status": 200, "response_time": "0.7438118767872474s"}
+2026-05-26T06:46:53Z 192.168.1.137 DELETE /api/products 500 255ms
+2026-05-26T06:46:53Z 192.168.1.16 PUT /api/users 401 201ms
+2026-05-26T06:46:53Z 192.168.1.43 GET /api/users 200 143ms
+2026-05-26T06:46:53Z 192.168.1.154 DELETE /api/products 401 72ms
+2026-05-26T06:46:53Z 192.168.1.232 PUT /api/login 404 432ms
+2026-05-26T06:46:53Z 192.168.1.42 DELETE /api/login 500 20ms
+2026-05-26T06:46:53Z 192.168.1.248 PUT /api/products 201 301ms
+2026-05-26T06:46:53Z 192.168.1.152 POST /api/login 404 223ms
+2026-05-26T06:46:53Z 192.168.1.235 DELETE /api/login 500 212ms
+2026-05-26T06:46:53Z 192.168.1.63 PUT /api/users 201 306ms
+2026-05-26T06:46:53Z 192.168.1.14 GET /api/products 401 472ms
+2026-05-26T06:46:53Z 192.168.1.111 DELETE /api/products 201 348ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.236", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.442137711513764s"}
+2026-05-26T06:46:53Z 192.168.1.180 POST /api/users 201 302ms
+2026-05-26T06:46:53Z 192.168.1.180 DELETE /api/products 404 386ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.98 POST /api/users 401 441ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.200", "method": "POST", "path": "/api/products", "status": 500, "response_time": "0.15207212190647434s"}
+2026-05-26T06:46:53Z 192.168.1.110 GET /api/orders 401 438ms
+2026-05-26T06:46:53Z 192.168.1.45 POST /api/orders 201 243ms
+2026-05-26T06:46:53Z 192.168.1.3 PUT /api/products 200 189ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.109 PUT /api/orders 200 118ms
+
+2026-05-26T06:46:53Z 192.168.1.219 GET /api/users 400 132ms
+2026-05-26T06:46:53Z 192.168.1.42 GET /api/users 400 321ms
+2026-05-26T06:46:53Z 192.168.1.246 POST /api/users 200 164ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.73 POST /api/login 200 275ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.116", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.6585103413164685s"}
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.221 GET /api/users 401 472ms
+
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.205", "method": "POST", "path": "/api/users", "status": 500, "response_time": "0.8686071813264107s"}
+2026-05-26T06:46:53Z 192.168.1.124 PUT /api/users 401 12ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.28", "method": "POST", "path": "/api/login", "status": 500, "response_time": "0.09919193676004434s"}
+2026-05-26T06:46:53Z 192.168.1.228 POST /api/users 404 299ms
+2026-05-26T06:46:53Z 192.168.1.208 PUT /api/login 404 379ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.190", "method": "GET", "path": "/api/orders", "status": 500, "response_time": "0.38837064695530066s"}
+2026-05-26T06:46:53Z 192.168.1.226 PUT /api/orders 400 218ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.74", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.9372867880958846s"}
+2026-05-26T06:46:53Z 192.168.1.70 PUT /api/login 200 71ms
+2026-05-26T06:46:53Z 192.168.1.46 GET /api/login 500 270ms
+2026-05-26T06:46:53Z 192.168.1.137 POST /api/users 201 308ms
+2026-05-26T06:46:53Z 192.168.1.198 POST /api/products 404 90ms
+partial line
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.196", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.07325346783728581s"}
+2026-05-26T06:46:53Z 192.168.1.144 GET /api/login 404 282ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.243", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.3120261382105325s"}
+2026-05-26T06:46:53Z 192.168.1.195 GET /api/products 404 94ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.178", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.8691733156839951s"}
+2026-05-26T06:46:53Z 192.168.1.136 PUT /api/users 201 221ms
+2026-05-26T06:46:53Z 192.168.1.186 POST /api/products 400 461ms
+2026-05-26T06:46:53Z 192.168.1.107 DELETE /api/login 201 466ms
+2026-05-26T06:46:53Z 192.168.1.98 GET /api/login 401 398ms
+2026-05-26T06:46:53Z 192.168.1.67 PUT /api/orders 500 72ms
+2026-05-26T06:46:53Z 192.168.1.21 PUT /api/users 500 36ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.162 GET /api/products 200 453ms
+2026-05-26T06:46:53Z 192.168.1.20 GET /api/products 404 486ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.107 DELETE /api/login 404 474ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.12", "method": "PUT", "path": "/api/products", "status": 500, "response_time": "0.5320445883933895s"}
+
+2026-05-26T06:46:53Z 192.168.1.135 POST /api/orders 404 334ms
+2026-05-26T06:46:53Z 192.168.1.78 DELETE /api/products 404 322ms
+2026-05-26T06:46:53Z 192.168.1.230 GET /api/products 404 48ms
+2026-05-26T06:46:53Z 192.168.1.172 DELETE /api/login 400 77ms
+
+2026-05-26T06:46:53Z 192.168.1.228 PUT /api/users 401 118ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.71", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.24963486557765158s"}
+2026-05-26T06:46:53Z 192.168.1.146 DELETE /api/users 401 379ms
+2026-05-26T06:46:53Z 192.168.1.32 GET /api/products 401 349ms
+2026-05-26T06:46:53Z 192.168.1.61 DELETE /api/products 401 116ms
+2026-05-26T06:46:53Z 192.168.1.152 GET /api/login 400 62ms
+2026-05-26T06:46:53Z 192.168.1.90 GET /api/products 200 487ms
+2026-05-26T06:46:53Z 192.168.1.144 PUT /api/users 200 365ms
+2026-05-26T06:46:53Z 192.168.1.251 DELETE /api/products 404 90ms
+2026-05-26T06:46:53Z 192.168.1.144 GET /api/login 401 276ms
+2026-05-26T06:46:53Z 192.168.1.152 PUT /api/orders 201 435ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.80 POST /api/users 200 107ms
+2026-05-26T06:46:53Z 192.168.1.66 DELETE /api/users 400 480ms
+2026-05-26T06:46:53Z 192.168.1.231 DELETE /api/orders 201 274ms
+2026-05-26T06:46:53Z 192.168.1.165 POST /api/products 201 76ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.42", "method": "GET", "path": "/api/orders", "status": 500, "response_time": "0.28825799941693075s"}
+2026-05-26T06:46:53Z 192.168.1.229 DELETE /api/users 500 241ms
+2026-05-26T06:46:53Z 192.168.1.79 POST /api/users 200 87ms
+2026-05-26T06:46:53Z 192.168.1.120 POST /api/login 201 286ms
+2026-05-26T06:46:53Z 192.168.1.235 POST /api/orders 500 25ms
+2026-05-26T06:46:53Z 192.168.1.217 GET /api/users 500 402ms
+2026-05-26T06:46:53Z 192.168.1.117 POST /api/login 401 132ms
+2026-05-26T06:46:53Z 192.168.1.170 PUT /api/products 201 457ms
+2026-05-26T06:46:53Z 192.168.1.64 DELETE /api/products 200 337ms
+2026-05-26T06:46:53Z 192.168.1.127 GET /api/orders 201 54ms
+
+2026-05-26T06:46:53Z 192.168.1.101 DELETE /api/users 401 20ms
+2026-05-26T06:46:53Z 192.168.1.37 PUT /api/products 201 466ms
+2026-05-26T06:46:53Z 192.168.1.8 DELETE /api/login 500 189ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.144", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.10403996663592163s"}
+2026-05-26T06:46:53Z 192.168.1.159 POST /api/products 401 18ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.233 DELETE /api/products 201 192ms
+2026-05-26T06:46:53Z 192.168.1.117 PUT /api/products 500 282ms
+
+2026-05-26T06:46:53Z 192.168.1.240 GET /api/login 404 282ms
+2026-05-26T06:46:53Z 192.168.1.12 GET /api/products 401 195ms
+2026-05-26T06:46:53Z 192.168.1.185 PUT /api/users 201 465ms
+2026-05-26T06:46:53Z 192.168.1.37 POST /api/users 401 455ms
+2026-05-26T06:46:53Z 192.168.1.254 POST /api/products 400 290ms
+2026-05-26T06:46:53Z 192.168.1.204 PUT /api/login 404 262ms
+2026-05-26T06:46:53Z 192.168.1.106 POST /api/orders 201 59ms
+2026-05-26T06:46:53Z 192.168.1.238 DELETE /api/orders 401 105ms
+2026-05-26T06:46:53Z 192.168.1.55 POST /api/orders 201 198ms
+2026-05-26T06:46:53Z 192.168.1.111 PUT /api/products 200 326ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.243", "method": "PUT", "path": "/api/users", "status": 200, "response_time": "0.6862418839238452s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.111", "method": "POST", "path": "/api/users", "status": 500, "response_time": "0.7622427880054821s"}
+2026-05-26T06:46:53Z 192.168.1.22 PUT /api/login 200 16ms
+partial line
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.10", "method": "PUT", "path": "/api/login", "status": 500, "response_time": "0.8084818538365597s"}
+2026-05-26T06:46:53Z 192.168.1.164 GET /api/login 400 340ms
+2026-05-26T06:46:53Z 192.168.1.67 DELETE /api/users 400 363ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.145", "method": "GET", "path": "/api/products", "status": 200, "response_time": "0.757799512891499s"}
+2026-05-26T06:46:53Z 192.168.1.25 PUT /api/orders 201 94ms
+
+2026-05-26T06:46:53Z 192.168.1.214 GET /api/orders 201 364ms
+2026-05-26T06:46:53Z 192.168.1.28 POST /api/users 404 398ms
+2026-05-26T06:46:53Z 192.168.1.52 POST /api/login 201 434ms
+2026-05-26T06:46:53Z 192.168.1.59 DELETE /api/orders 500 157ms
+2026-05-26T06:46:53Z 192.168.1.113 POST /api/products 404 213ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.213", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.3903623617728692s"}
+2026-05-26T06:46:53Z 192.168.1.76 POST /api/login 400 378ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.246 GET /api/login 401 70ms
+2026-05-26T06:46:53Z 192.168.1.200 GET /api/products 200 275ms
+2026-05-26T06:46:53Z 192.168.1.245 GET /api/orders 500 28ms
+2026-05-26T06:46:53Z 192.168.1.231 PUT /api/products 404 151ms
+2026-05-26T06:46:53Z 192.168.1.108 PUT /api/products 201 155ms
+2026-05-26T06:46:53Z 192.168.1.109 GET /api/orders 400 224ms
+2026-05-26T06:46:53Z 192.168.1.24 DELETE /api/login 201 440ms
+2026-05-26T06:46:53Z 192.168.1.105 GET /api/login 201 315ms
+2026-05-26T06:46:53Z 192.168.1.24 GET /api/products 404 174ms
+2026-05-26T06:46:53Z 192.168.1.65 POST /api/login 201 288ms
+2026-05-26T06:46:53Z 192.168.1.237 PUT /api/users 401 493ms
+2026-05-26T06:46:53Z 192.168.1.136 PUT /api/login 500 385ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.236", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.71695104872228s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.203", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.21333623489050269s"}
+2026-05-26T06:46:53Z 192.168.1.45 PUT /api/users 500 465ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.8", "method": "POST", "path": "/api/orders", "status": 200, "response_time": "0.320407107336088s"}
+2026-05-26T06:46:53Z 192.168.1.114 PUT /api/login 404 438ms
+2026-05-26T06:46:53Z 192.168.1.60 PUT /api/orders 500 306ms
+
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.120", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.15937992277617952s"}
+
+
+2026-05-26T06:46:53Z 192.168.1.55 DELETE /api/products 500 309ms
+2026-05-26T06:46:53Z 192.168.1.60 POST /api/login 400 159ms
+2026-05-26T06:46:53Z 192.168.1.145 DELETE /api/users 200 334ms
+2026-05-26T06:46:53Z 192.168.1.216 DELETE /api/users 201 491ms
+2026-05-26T06:46:53Z 192.168.1.113 DELETE /api/users 400 387ms
+2026-05-26T06:46:53Z 192.168.1.251 POST /api/login 200 43ms
+2026-05-26T06:46:53Z 192.168.1.166 PUT /api/login 400 169ms
+2026-05-26T06:46:53Z 192.168.1.176 POST /api/users 500 302ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.214", "method": "POST", "path": "/api/products", "status": 500, "response_time": "0.9226544915615255s"}
+2026-05-26T06:46:53Z 192.168.1.5 GET /api/users 400 472ms
+2026-05-26T06:46:53Z 192.168.1.95 PUT /api/orders 201 196ms
+2026-05-26T06:46:53Z 192.168.1.51 PUT /api/orders 401 448ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.185 PUT /api/products 200 276ms
+2026-05-26T06:46:53Z 192.168.1.246 GET /api/login 500 125ms
+2026-05-26T06:46:53Z 192.168.1.94 PUT /api/login 400 480ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.126", "method": "PUT", "path": "/api/products", "status": 500, "response_time": "0.32238124845664595s"}
+2026-05-26T06:46:53Z 192.168.1.7 GET /api/products 404 478ms
+2026-05-26T06:46:53Z 192.168.1.103 DELETE /api/users 400 39ms
+2026-05-26T06:46:53Z 192.168.1.203 POST /api/users 500 494ms
+2026-05-26T06:46:53Z 192.168.1.127 POST /api/login 201 47ms
+2026-05-26T06:46:53Z 192.168.1.209 GET /api/orders 401 275ms
+2026-05-26T06:46:53Z 192.168.1.236 PUT /api/login 200 13ms
+2026-05-26T06:46:53Z 192.168.1.231 PUT /api/login 200 389ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.150", "method": "GET", "path": "/api/users", "status": 500, "response_time": "0.8753733915003802s"}
+2026-05-26T06:46:53Z 192.168.1.90 POST /api/products 400 280ms
+2026-05-26T06:46:53Z 192.168.1.33 PUT /api/orders 201 442ms
+2026-05-26T06:46:53Z 192.168.1.216 PUT /api/login 200 177ms
+2026-05-26T06:46:53Z 192.168.1.251 POST /api/orders 201 15ms
+2026-05-26T06:46:53Z 192.168.1.41 DELETE /api/login 500 401ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.36", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.8244888260845219s"}
+
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.99", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.38826141637720923s"}
+2026-05-26T06:46:53Z 192.168.1.91 POST /api/users 404 442ms
+2026-05-26T06:46:53Z 192.168.1.159 PUT /api/users 201 202ms
+2026-05-26T06:46:53Z 192.168.1.129 DELETE /api/login 400 416ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.203", "method": "GET", "path": "/api/orders", "status": 500, "response_time": "0.6277865213028999s"}
+2026-05-26T06:46:53Z 192.168.1.94 GET /api/products 200 48ms
+Traceback: connection reset
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.172", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.7483126071960585s"}
+2026-05-26T06:46:53Z 192.168.1.201 GET /api/orders 500 50ms
+2026-05-26T06:46:53Z 192.168.1.105 GET /api/login 201 27ms
+2026-05-26T06:46:53Z 192.168.1.225 PUT /api/products 500 30ms
+2026-05-26T06:46:53Z 192.168.1.57 POST /api/products 500 429ms
+2026-05-26T06:46:53Z 192.168.1.124 GET /api/login 400 473ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.230", "method": "PUT", "path": "/api/products", "status": 500, "response_time": "0.9238365030135206s"}
+2026-05-26T06:46:53Z 192.168.1.134 GET /api/products 200 200ms
+2026-05-26T06:46:53Z 192.168.1.178 DELETE /api/orders 500 304ms
+2026-05-26T06:46:53Z 192.168.1.64 GET /api/orders 201 170ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.114", "method": "DELETE", "path": "/api/login", "status": 500, "response_time": "0.9803947331766438s"}
+2026-05-26T06:46:53Z 192.168.1.14 DELETE /api/users 200 106ms
+2026-05-26T06:46:53Z 192.168.1.231 PUT /api/orders 400 168ms
+partial line
+partial line
+partial line
+
+2026-05-26T06:46:53Z 192.168.1.63 POST /api/products 401 480ms
+
+2026-05-26T06:46:53Z 192.168.1.142 POST /api/orders 404 233ms
+2026-05-26T06:46:53Z 192.168.1.147 GET /api/login 404 463ms
+2026-05-26T06:46:53Z 192.168.1.128 POST /api/products 400 114ms
+2026-05-26T06:46:53Z 192.168.1.244 POST /api/orders 200 176ms
+2026-05-26T06:46:53Z 192.168.1.150 POST /api/login 201 460ms
+2026-05-26T06:46:53Z 192.168.1.25 DELETE /api/users 201 381ms
+2026-05-26T06:46:53Z 192.168.1.12 PUT /api/users 200 130ms
+2026-05-26T06:46:53Z 192.168.1.96 DELETE /api/login 201 287ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.142 POST /api/login 201 27ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.201 POST /api/products 400 71ms
+2026-05-26T06:46:53Z 192.168.1.228 DELETE /api/login 201 149ms
+2026-05-26T06:46:53Z 192.168.1.241 POST /api/orders 201 234ms
+2026-05-26T06:46:53Z 192.168.1.227 DELETE /api/users 400 260ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.11 GET /api/login 404 220ms
+Traceback: connection reset
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.51", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.6502332665861871s"}
+2026-05-26T06:46:53Z 192.168.1.77 POST /api/login 400 243ms
+2026-05-26T06:46:53Z 192.168.1.58 DELETE /api/orders 400 327ms
+2026-05-26T06:46:53Z 192.168.1.73 PUT /api/orders 200 287ms
+2026-05-26T06:46:53Z 192.168.1.149 DELETE /api/orders 400 289ms
+2026-05-26T06:46:53Z 192.168.1.129 POST /api/login 200 164ms
+2026-05-26T06:46:53Z 192.168.1.166 POST /api/users 400 486ms
+2026-05-26T06:46:53Z 192.168.1.161 DELETE /api/products 404 92ms
+2026-05-26T06:46:53Z 192.168.1.154 GET /api/login 404 350ms
+2026-05-26T06:46:53Z 192.168.1.67 POST /api/users 400 245ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.106", "method": "DELETE", "path": "/api/users", "status": 200, "response_time": "0.24065704318977s"}
+2026-05-26T06:46:53Z 192.168.1.92 GET /api/orders 404 68ms
+2026-05-26T06:46:53Z 192.168.1.207 GET /api/users 200 466ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.165 POST /api/users 500 259ms
+2026-05-26T06:46:53Z 192.168.1.234 GET /api/products 401 273ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.229", "method": "POST", "path": "/api/orders", "status": 200, "response_time": "0.2337742570327932s"}
+partial line
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.247 GET /api/login 200 319ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.228", "method": "PUT", "path": "/api/login", "status": 200, "response_time": "0.29621433117028695s"}
+2026-05-26T06:46:53Z 192.168.1.38 DELETE /api/products 400 456ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.106 DELETE /api/users 201 203ms
+2026-05-26T06:46:53Z 192.168.1.138 DELETE /api/users 400 211ms
+2026-05-26T06:46:53Z 192.168.1.40 PUT /api/orders 400 387ms
+2026-05-26T06:46:53Z 192.168.1.248 DELETE /api/login 404 334ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.92 GET /api/users 201 146ms
+2026-05-26T06:46:53Z 192.168.1.197 DELETE /api/orders 200 48ms
+2026-05-26T06:46:53Z 192.168.1.63 GET /api/products 401 391ms
+2026-05-26T06:46:53Z 192.168.1.44 DELETE /api/products 500 127ms
+2026-05-26T06:46:53Z 192.168.1.18 DELETE /api/products 401 354ms
+2026-05-26T06:46:53Z 192.168.1.202 GET /api/login 201 234ms
+2026-05-26T06:46:53Z 192.168.1.181 POST /api/users 500 391ms
+2026-05-26T06:46:53Z 192.168.1.42 PUT /api/login 200 201ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.78 DELETE /api/login 401 404ms
+2026-05-26T06:46:53Z 192.168.1.29 GET /api/users 500 48ms
+2026-05-26T06:46:53Z 192.168.1.89 GET /api/login 200 31ms
+2026-05-26T06:46:53Z 192.168.1.234 DELETE /api/orders 500 375ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.50 PUT /api/users 500 151ms
+2026-05-26T06:46:53Z 192.168.1.199 POST /api/orders 500 388ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.238", "method": "GET", "path": "/api/login", "status": 200, "response_time": "0.7404772438737552s"}
+partial line
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.203", "method": "GET", "path": "/api/orders", "status": 500, "response_time": "0.6109304285245889s"}
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.216 POST /api/orders 200 335ms
+2026-05-26T06:46:53Z 192.168.1.198 PUT /api/orders 201 450ms
+2026-05-26T06:46:53Z 192.168.1.14 DELETE /api/login 401 386ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.223", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.5779261724506527s"}
+2026-05-26T06:46:53Z 192.168.1.80 POST /api/login 401 366ms
+2026-05-26T06:46:53Z 192.168.1.215 DELETE /api/orders 404 302ms
+2026-05-26T06:46:53Z 192.168.1.163 GET /api/login 400 340ms
+2026-05-26T06:46:53Z 192.168.1.114 POST /api/orders 500 429ms
+2026-05-26T06:46:53Z 192.168.1.64 PUT /api/login 400 322ms
+2026-05-26T06:46:53Z 192.168.1.82 PUT /api/login 404 287ms
+2026-05-26T06:46:53Z 192.168.1.180 POST /api/products 404 325ms
+2026-05-26T06:46:53Z 192.168.1.57 POST /api/login 404 102ms
+2026-05-26T06:46:53Z 192.168.1.18 PUT /api/products 500 361ms
+
+2026-05-26T06:46:53Z 192.168.1.172 GET /api/products 400 346ms
+2026-05-26T06:46:53Z 192.168.1.207 GET /api/users 400 181ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.2", "method": "DELETE", "path": "/api/login", "status": 500, "response_time": "0.6382666389320615s"}
+2026-05-26T06:46:53Z 192.168.1.189 PUT /api/login 200 81ms
+2026-05-26T06:46:53Z 192.168.1.166 DELETE /api/products 404 144ms
+2026-05-26T06:46:53Z 192.168.1.93 POST /api/products 401 226ms
+2026-05-26T06:46:53Z 192.168.1.146 POST /api/products 404 325ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.151", "method": "DELETE", "path": "/api/orders", "status": 500, "response_time": "0.6652307210232932s"}
+2026-05-26T06:46:53Z 192.168.1.140 POST /api/users 200 17ms
+2026-05-26T06:46:53Z 192.168.1.230 DELETE /api/users 201 300ms
+2026-05-26T06:46:53Z 192.168.1.34 PUT /api/products 400 470ms
+2026-05-26T06:46:53Z 192.168.1.68 PUT /api/products 404 213ms
+2026-05-26T06:46:53Z 192.168.1.211 PUT /api/login 201 497ms
+2026-05-26T06:46:53Z 192.168.1.114 GET /api/login 200 337ms
+2026-05-26T06:46:53Z 192.168.1.117 PUT /api/users 201 369ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.219", "method": "PUT", "path": "/api/products", "status": 200, "response_time": "0.25529276243148813s"}
+2026-05-26T06:46:53Z 192.168.1.253 DELETE /api/products 401 65ms
+2026-05-26T06:46:53Z 192.168.1.117 PUT /api/users 201 226ms
+2026-05-26T06:46:53Z 192.168.1.66 PUT /api/products 500 378ms
+2026-05-26T06:46:53Z 192.168.1.82 PUT /api/products 400 394ms
+2026-05-26T06:46:53Z 192.168.1.13 PUT /api/orders 500 326ms
+2026-05-26T06:46:53Z 192.168.1.8 PUT /api/users 404 311ms
+2026-05-26T06:46:53Z 192.168.1.180 PUT /api/users 401 486ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.66 GET /api/users 200 492ms
+2026-05-26T06:46:53Z 192.168.1.114 GET /api/products 500 480ms
+2026-05-26T06:46:53Z 192.168.1.89 GET /api/login 401 468ms
+2026-05-26T06:46:53Z 192.168.1.243 POST /api/orders 201 418ms
+2026-05-26T06:46:53Z 192.168.1.198 GET /api/products 404 28ms
+2026-05-26T06:46:53Z 192.168.1.161 PUT /api/products 200 115ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.199", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.2645634208438059s"}
+2026-05-26T06:46:53Z 192.168.1.41 DELETE /api/users 400 484ms
+2026-05-26T06:46:53Z 192.168.1.112 POST /api/products 400 409ms
+2026-05-26T06:46:53Z 192.168.1.8 POST /api/orders 401 53ms
+2026-05-26T06:46:53Z 192.168.1.128 PUT /api/login 201 75ms
+2026-05-26T06:46:53Z 192.168.1.185 POST /api/login 401 439ms
+2026-05-26T06:46:53Z 192.168.1.157 GET /api/orders 404 422ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.80", "method": "PUT", "path": "/api/users", "status": 200, "response_time": "0.8219430059129282s"}
+2026-05-26T06:46:53Z 192.168.1.70 POST /api/products 200 55ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.38 POST /api/login 404 496ms
+2026-05-26T06:46:53Z 192.168.1.214 DELETE /api/orders 500 328ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.27", "method": "POST", "path": "/api/products", "status": 200, "response_time": "0.03854274007632663s"}
+2026-05-26T06:46:53Z 192.168.1.6 PUT /api/login 404 258ms
+2026-05-26T06:46:53Z 192.168.1.67 POST /api/products 401 189ms
+2026-05-26T06:46:53Z 192.168.1.152 POST /api/orders 401 124ms
+2026-05-26T06:46:53Z 192.168.1.64 PUT /api/users 401 402ms
+2026-05-26T06:46:53Z 192.168.1.146 DELETE /api/products 200 55ms
+2026-05-26T06:46:53Z 192.168.1.251 PUT /api/login 401 263ms
+2026-05-26T06:46:53Z 192.168.1.84 GET /api/users 200 188ms
+2026-05-26T06:46:53Z 192.168.1.94 PUT /api/login 200 286ms
+2026-05-26T06:46:53Z 192.168.1.134 DELETE /api/login 401 13ms
+2026-05-26T06:46:53Z 192.168.1.113 PUT /api/login 404 247ms
+2026-05-26T06:46:53Z 192.168.1.186 DELETE /api/login 400 87ms
+2026-05-26T06:46:53Z 192.168.1.112 GET /api/login 400 466ms
+2026-05-26T06:46:53Z 192.168.1.123 POST /api/users 200 325ms
+2026-05-26T06:46:53Z 192.168.1.245 GET /api/products 500 278ms
+2026-05-26T06:46:53Z 192.168.1.242 POST /api/products 404 470ms
+2026-05-26T06:46:53Z 192.168.1.179 GET /api/users 404 217ms
+2026-05-26T06:46:53Z 192.168.1.71 GET /api/login 401 282ms
+2026-05-26T06:46:53Z 192.168.1.56 PUT /api/users 500 397ms
+2026-05-26T06:46:53Z 192.168.1.44 POST /api/products 200 12ms
+2026-05-26T06:46:53Z 192.168.1.172 GET /api/orders 200 249ms
+2026-05-26T06:46:53Z 192.168.1.85 POST /api/products 201 41ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.171", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.0248054194445525s"}
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.183 GET /api/users 401 141ms
+2026-05-26T06:46:53Z 192.168.1.75 PUT /api/users 500 439ms
+2026-05-26T06:46:53Z 192.168.1.154 POST /api/products 201 58ms
+2026-05-26T06:46:53Z 192.168.1.34 PUT /api/products 400 71ms
+2026-05-26T06:46:53Z 192.168.1.42 POST /api/users 200 485ms
+2026-05-26T06:46:53Z 192.168.1.70 POST /api/products 201 477ms
+2026-05-26T06:46:53Z 192.168.1.207 POST /api/users 201 252ms
+2026-05-26T06:46:53Z 192.168.1.223 PUT /api/users 400 385ms
+2026-05-26T06:46:53Z 192.168.1.215 PUT /api/orders 500 300ms
+2026-05-26T06:46:53Z 192.168.1.151 PUT /api/orders 500 91ms
+partial line
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.147", "method": "GET", "path": "/api/login", "status": 500, "response_time": "0.09558805381228452s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.25", "method": "DELETE", "path": "/api/users", "status": 500, "response_time": "0.44802467867320817s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.33", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.13344100672556058s"}
+2026-05-26T06:46:53Z 192.168.1.106 POST /api/products 500 266ms
+2026-05-26T06:46:53Z 192.168.1.100 POST /api/login 400 490ms
+2026-05-26T06:46:53Z 192.168.1.246 DELETE /api/products 500 106ms
+2026-05-26T06:46:53Z 192.168.1.223 GET /api/users 400 21ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.231 POST /api/orders 500 188ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.126", "method": "DELETE", "path": "/api/login", "status": 500, "response_time": "0.9647088772523258s"}
+2026-05-26T06:46:53Z 192.168.1.16 PUT /api/users 200 253ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.1", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.4121762029631497s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.88", "method": "POST", "path": "/api/products", "status": 200, "response_time": "0.9793739429603443s"}
+2026-05-26T06:46:53Z 192.168.1.208 DELETE /api/login 200 376ms
+2026-05-26T06:46:53Z 192.168.1.69 PUT /api/orders 201 467ms
+2026-05-26T06:46:53Z 192.168.1.223 GET /api/login 201 145ms
+2026-05-26T06:46:53Z 192.168.1.47 DELETE /api/users 500 217ms
+2026-05-26T06:46:53Z 192.168.1.156 PUT /api/login 200 184ms
+2026-05-26T06:46:53Z 192.168.1.254 GET /api/products 201 470ms
+2026-05-26T06:46:53Z 192.168.1.176 POST /api/products 404 293ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.211 DELETE /api/login 400 362ms
+2026-05-26T06:46:53Z 192.168.1.220 DELETE /api/products 201 485ms
+2026-05-26T06:46:53Z 192.168.1.244 POST /api/login 401 450ms
+2026-05-26T06:46:53Z 192.168.1.85 GET /api/orders 401 496ms
+2026-05-26T06:46:53Z 192.168.1.167 DELETE /api/users 500 277ms
+2026-05-26T06:46:53Z 192.168.1.15 PUT /api/users 500 420ms
+2026-05-26T06:46:53Z 192.168.1.236 POST /api/products 400 126ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.16 PUT /api/login 200 42ms
+2026-05-26T06:46:53Z 192.168.1.225 DELETE /api/products 404 172ms
+2026-05-26T06:46:53Z 192.168.1.113 GET /api/users 500 488ms
+2026-05-26T06:46:53Z 192.168.1.236 PUT /api/orders 401 296ms
+
+
+2026-05-26T06:46:53Z 192.168.1.29 PUT /api/login 500 463ms
+2026-05-26T06:46:53Z 192.168.1.91 POST /api/orders 404 313ms
+2026-05-26T06:46:53Z 192.168.1.225 GET /api/orders 200 219ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.211 POST /api/users 500 434ms
+2026-05-26T06:46:53Z 192.168.1.140 DELETE /api/products 400 363ms
+2026-05-26T06:46:53Z 192.168.1.221 PUT /api/users 404 222ms
+2026-05-26T06:46:53Z 192.168.1.223 POST /api/products 401 252ms
+2026-05-26T06:46:53Z 192.168.1.218 GET /api/users 401 230ms
+2026-05-26T06:46:53Z 192.168.1.43 GET /api/products 401 17ms
+2026-05-26T06:46:53Z 192.168.1.135 POST /api/orders 400 300ms
+2026-05-26T06:46:53Z 192.168.1.231 GET /api/orders 201 84ms
+2026-05-26T06:46:53Z 192.168.1.233 PUT /api/users 404 166ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.241 DELETE /api/products 404 397ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.2", "method": "POST", "path": "/api/login", "status": 500, "response_time": "0.7550811054748425s"}
+2026-05-26T06:46:53Z 192.168.1.4 PUT /api/products 404 41ms
+
+2026-05-26T06:46:53Z 192.168.1.136 PUT /api/orders 401 196ms
+2026-05-26T06:46:53Z 192.168.1.80 POST /api/users 401 497ms
+2026-05-26T06:46:53Z 192.168.1.86 POST /api/users 500 18ms
+2026-05-26T06:46:53Z 192.168.1.96 GET /api/orders 401 255ms
+2026-05-26T06:46:53Z 192.168.1.229 GET /api/orders 404 223ms
+2026-05-26T06:46:53Z 192.168.1.138 POST /api/login 200 452ms
+2026-05-26T06:46:53Z 192.168.1.226 GET /api/products 404 487ms
+INVALID LOG ENTRY
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.184 PUT /api/login 400 190ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.92", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.6158227457665955s"}
+2026-05-26T06:46:53Z 192.168.1.100 GET /api/orders 404 467ms
+2026-05-26T06:46:53Z 192.168.1.115 DELETE /api/products 401 488ms
+2026-05-26T06:46:53Z 192.168.1.208 PUT /api/login 400 45ms
+2026-05-26T06:46:53Z 192.168.1.192 DELETE /api/orders 404 472ms
+2026-05-26T06:46:53Z 192.168.1.168 GET /api/login 400 165ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.240 DELETE /api/login 200 332ms
+2026-05-26T06:46:53Z 192.168.1.244 POST /api/users 500 218ms
+2026-05-26T06:46:53Z 192.168.1.22 PUT /api/login 400 65ms
+2026-05-26T06:46:53Z 192.168.1.74 POST /api/products 401 94ms
+2026-05-26T06:46:53Z 192.168.1.251 POST /api/users 404 308ms
+2026-05-26T06:46:53Z 192.168.1.214 GET /api/products 401 276ms
+2026-05-26T06:46:53Z 192.168.1.76 POST /api/orders 500 481ms
+2026-05-26T06:46:53Z 192.168.1.224 DELETE /api/orders 500 437ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.165", "method": "GET", "path": "/api/products", "status": 200, "response_time": "0.6552673003937446s"}
+Traceback: connection reset
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.73", "method": "PUT", "path": "/api/orders", "status": 500, "response_time": "0.9510349168318829s"}
+2026-05-26T06:46:53Z 192.168.1.11 POST /api/orders 500 114ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.252", "method": "PUT", "path": "/api/login", "status": 200, "response_time": "0.3956978619266187s"}
+2026-05-26T06:46:53Z 192.168.1.150 PUT /api/products 401 272ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.55 GET /api/login 400 278ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.196", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.49121446557743076s"}
+2026-05-26T06:46:53Z 192.168.1.16 PUT /api/login 404 318ms
+2026-05-26T06:46:53Z 192.168.1.107 DELETE /api/users 201 35ms
+2026-05-26T06:46:53Z 192.168.1.18 GET /api/users 401 322ms
+2026-05-26T06:46:53Z 192.168.1.107 DELETE /api/login 404 112ms
+partial line
+2026-05-26T06:46:53Z 192.168.1.231 DELETE /api/users 400 399ms
+2026-05-26T06:46:53Z 192.168.1.220 POST /api/orders 404 457ms
+2026-05-26T06:46:53Z 192.168.1.133 POST /api/orders 401 412ms
+2026-05-26T06:46:53Z 192.168.1.50 PUT /api/users 404 269ms
+2026-05-26T06:46:53Z 192.168.1.113 GET /api/products 201 438ms
+2026-05-26T06:46:53Z 192.168.1.48 DELETE /api/orders 201 23ms
+2026-05-26T06:46:53Z 192.168.1.73 POST /api/login 500 219ms
+2026-05-26T06:46:53Z 192.168.1.172 POST /api/login 400 401ms
+2026-05-26T06:46:53Z 192.168.1.139 PUT /api/login 500 283ms
+2026-05-26T06:46:53Z 192.168.1.176 POST /api/orders 201 297ms
+2026-05-26T06:46:53Z 192.168.1.12 POST /api/login 404 396ms
+2026-05-26T06:46:53Z 192.168.1.168 DELETE /api/users 201 355ms
+2026-05-26T06:46:53Z 192.168.1.14 POST /api/login 404 142ms
+2026-05-26T06:46:53Z 192.168.1.229 DELETE /api/orders 500 415ms
+2026-05-26T06:46:53Z 192.168.1.70 DELETE /api/users 400 52ms
+
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.195", "method": "POST", "path": "/api/orders", "status": 500, "response_time": "0.11789654148484607s"}
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.212", "method": "DELETE", "path": "/api/login", "status": 200, "response_time": "0.9901957006615559s"}
+2026-05-26T06:46:53Z 192.168.1.31 GET /api/login 404 447ms
+2026-05-26T06:46:53Z 192.168.1.81 POST /api/users 401 73ms
+2026-05-26T06:46:53Z 192.168.1.121 POST /api/users 404 164ms
+2026-05-26T06:46:53Z 192.168.1.2 PUT /api/users 500 200ms
+2026-05-26T06:46:53Z 192.168.1.217 POST /api/users 500 30ms
+2026-05-26T06:46:53Z 192.168.1.170 POST /api/products 400 313ms
+2026-05-26T06:46:53Z 192.168.1.192 DELETE /api/login 401 30ms
+2026-05-26T06:46:53Z 192.168.1.225 DELETE /api/orders 404 241ms
+2026-05-26T06:46:53Z 192.168.1.112 GET /api/login 404 302ms
+2026-05-26T06:46:53Z 192.168.1.43 POST /api/orders 404 495ms
+2026-05-26T06:46:53Z 192.168.1.121 POST /api/products 400 305ms
+2026-05-26T06:46:53Z 192.168.1.95 PUT /api/login 201 149ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.111 GET /api/orders 401 373ms
+2026-05-26T06:46:53Z 192.168.1.151 POST /api/products 404 265ms
+2026-05-26T06:46:53Z 192.168.1.35 GET /api/products 404 344ms
+2026-05-26T06:46:53Z 192.168.1.195 DELETE /api/users 404 32ms
+Traceback: connection reset
+2026-05-26T06:46:53Z 192.168.1.6 DELETE /api/products 200 290ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.191", "method": "GET", "path": "/api/login", "status": 200, "response_time": "0.013975374583401146s"}
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.43 DELETE /api/users 400 235ms
+INVALID LOG ENTRY
+2026-05-26T06:46:53Z 192.168.1.173 POST /api/users 200 270ms
+2026-05-26T06:46:53Z 192.168.1.246 PUT /api/users 201 220ms
+2026-05-26T06:46:53Z 192.168.1.107 DELETE /api/products 404 456ms
+2026-05-26T06:46:53Z 192.168.1.252 POST /api/users 404 414ms
+2026-05-26T06:46:53Z 192.168.1.100 POST /api/users 404 113ms
+2026-05-26T06:46:53Z 192.168.1.61 POST /api/products 500 232ms
+2026-05-26T06:46:53Z 192.168.1.59 POST /api/login 404 371ms
+2026-05-26T06:46:53Z 192.168.1.252 GET /api/users 200 456ms
+2026-05-26T06:46:53Z 192.168.1.96 PUT /api/products 500 201ms
+2026-05-26T06:46:53Z 192.168.1.190 POST /api/users 400 180ms
+
+2026-05-26T06:46:53Z 192.168.1.210 POST /api/users 201 299ms
+2026-05-26T06:46:53Z 192.168.1.214 PUT /api/products 400 422ms
+2026-05-26T06:46:53Z 192.168.1.251 POST /api/login 400 14ms
+2026-05-26T06:46:53Z 192.168.1.88 DELETE /api/products 201 247ms
+2026-05-26T06:46:53Z 192.168.1.219 GET /api/products 401 66ms
+2026-05-26T06:46:53Z 192.168.1.200 DELETE /api/orders 404 122ms
+2026-05-26T06:46:53Z 192.168.1.71 GET /api/products 201 463ms
+2026-05-26T06:46:53Z 192.168.1.44 GET /api/orders 201 290ms
+2026-05-26T06:46:53Z 192.168.1.219 PUT /api/login 401 50ms
+2026-05-26T06:46:53Z 192.168.1.158 PUT /api/products 500 229ms
+2026-05-26T06:46:53Z 192.168.1.27 POST /api/users 201 389ms
+2026-05-26T06:46:53Z 192.168.1.232 PUT /api/login 400 205ms
+2026-05-26T06:46:53Z 192.168.1.94 DELETE /api/orders 500 321ms
+2026-05-26T06:46:53Z 192.168.1.165 DELETE /api/products 200 243ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.244", "method": "PUT", "path": "/api/users", "status": 500, "response_time": "0.6801583689521584s"}
+2026-05-26T06:46:53Z 192.168.1.121 PUT /api/login 401 244ms
+2026-05-26T06:46:53Z 192.168.1.165 PUT /api/users 200 84ms
+2026-05-26T06:46:53Z 192.168.1.4 GET /api/orders 500 20ms
+partial line
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.10", "method": "DELETE", "path": "/api/users", "status": 500, "response_time": "0.7717114461601978s"}
+2026-05-26T06:46:53Z 192.168.1.49 POST /api/products 401 366ms
+2026-05-26T06:46:53Z 192.168.1.43 PUT /api/login 401 40ms
+2026-05-26T06:46:53Z 192.168.1.7 POST /api/products 401 153ms
+2026-05-26T06:46:53Z 192.168.1.7 PUT /api/users 500 323ms
+2026-05-26T06:46:53Z 192.168.1.74 POST /api/products 404 205ms
+2026-05-26T06:46:53Z 192.168.1.148 PUT /api/login 404 359ms
+2026-05-26T06:46:53Z 192.168.1.210 GET /api/orders 201 158ms
+2026-05-26T06:46:53Z 192.168.1.120 POST /api/login 400 361ms
+2026-05-26T06:46:53Z 192.168.1.140 GET /api/users 404 118ms
+2026-05-26T06:46:53Z 192.168.1.24 PUT /api/products 201 101ms
+2026-05-26T06:46:53Z 192.168.1.140 PUT /api/login 200 188ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.187", "method": "GET", "path": "/api/products", "status": 200, "response_time": "0.7328015588631484s"}
+2026-05-26T06:46:53Z 192.168.1.102 PUT /api/products 400 451ms
+{"timestamp": "2026-05-26T06:46:53Z", "ip": "10.0.0.153", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.11908937618158899s"}
+2026-05-26T06:46:53Z 192.168.1.62 POST /api/login 400 284ms
+2026-05-26T06:46:53Z 192.168.1.179 PUT /api/orders 404 135ms
+2026-05-26T06:46:53Z 192.168.1.89 DELETE /api/orders 400 425ms
